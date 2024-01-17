@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Vipin Bhati</h1>
 <h3 align="center">A Full Stack Web and App Developer</h3>
-<img align ="right" alt= "Coding" width = "600" src ="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+<img align ="center up" alt= "Coding" width = "600" src ="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipin382&label=Profile%20views&color=0e75b6&style=flat" alt="vipin382" /> </p>
